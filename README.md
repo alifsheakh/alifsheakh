@@ -29,11 +29,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifsheakh)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alifsheakh&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifsheakh&theme=dark&show_icons=true)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alifsheakh)  
 
 ![GitHub metrics](https://metrics.lecoq.io/alifsheakh)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-?theme=github_dark

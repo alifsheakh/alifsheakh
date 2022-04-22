@@ -34,3 +34,6 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alifsheakh)  
 
 ![GitHub metrics](https://metrics.lecoq.io/alifsheakh)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+?theme=github_dark

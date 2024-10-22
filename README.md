@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alifsheakh&label=Profile%20views&color=0e75b6&style=flat" alt="alifsheakh" /> </p>
 
-🎓 I have graduated with a **B.Sc. in Computer Science and Engineering** from **Daffodil International University**.
-🌱 I specialize in **Machine Learning, Deep Learning, Medical Image Analysis,** and **Computer Vision**.
+-🎓 I have graduated with a **B.Sc. in Computer Science and Engineering** from **Daffodil International University**.
+-🌱 I specialize in **Machine Learning, Deep Learning, Medical Image Analysis,** and **Computer Vision**.
 💻 I have experience in programming languages like **Python, C, HTML, CSS, PHP,** and **Java**.
 📊 I work as a **Research Associate** at the **Health Informatics Research Lab (HIRL)**, focusing on developing deep learning models for medical image tasks.
 🧑‍🏫 I am a former Teaching Assistant at Daffodil International University, where I supported research and academic activities.

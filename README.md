@@ -7,11 +7,11 @@
 - 🌱 I specialize in **Machine Learning, Deep Learning, Medical Image Analysis,** and **Computer Vision**.
 - 💻 I have experience in programming languages like **Python, C, HTML, CSS, PHP,** and **Java**.
 - 📊 I work as a **Research Associate** at the **Health Informatics Research Lab (HIRL)**, focusing on developing deep learning models for medical image tasks.
-- 🧑‍🏫 I am a former Teaching Assistant at Daffodil International University, where I supported research and academic activities.
+- 🧑‍🏫 I am a former **Teaching Assistant** at Daffodil International University, where I supported research and academic activities.
 - 🏆 I have been involved in multiple research projects and publications in international conferences and journals.
 - 📝 I am also a content writer with past experience at Steemit.
 - 📫 You can reach me at **sheakhalif26@gmail.com**.
-- 📚 Google Scholar profile: **[Google Scholar](https://scholar.google.com/citations?user=cW1bMGQAAAAJ&hl=en)
+- 📚 Google Scholar profile: **[Google Scholar](https://scholar.google.com/citations?user=cW1bMGQAAAAJ&hl=en)**
 - 🔗 ResearchGate profile: **[ResearchGate](https://www.researchgate.net/profile/Md-Alif-Sheakh)**
 - 🆔 ORCID: **[0009-0006-5845-5210](https://orcid.org/0009-0006-5845-5210)**
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1aWR7E7fbEpST8GVveKyBY-U2t3QOxUjn/view?usp=sharing)

@@ -11,9 +11,9 @@
 - 🏆 I have been involved in multiple research projects and publications in international conferences and journals.
 - 📝 I am also a content writer with past experience at Steemit.
 - 📫 You can reach me at **sheakhalif26@gmail.com**.
-- 📚 Google Scholar profile: [Google Scholar]([url](https://scholar.google.com/citations?user=cW1bMGQAAAAJ&hl=en))
-- 🔗 ResearchGate profile: [ResearchGate]([url](https://www.researchgate.net/profile/Md-Alif-Sheakh))
-- 🆔 ORCID: [0009-0006-5845-5210]([url](https://orcid.org/0009-0006-5845-5210))
+- 📚 Google Scholar profile: **[Google Scholar]((https://scholar.google.com/citations?user=cW1bMGQAAAAJ&hl=en))**
+- 🔗 ResearchGate profile: **[ResearchGate]((https://www.researchgate.net/profile/Md-Alif-Sheakh))**
+- 🆔 ORCID: **[0009-0006-5845-5210]((https://orcid.org/0009-0006-5845-5210))**
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1aWR7E7fbEpST8GVveKyBY-U2t3QOxUjn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>

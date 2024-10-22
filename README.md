@@ -3,13 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alifsheakh&label=Profile%20views&color=0e75b6&style=flat" alt="alifsheakh" /> </p>
 
-- 🧑‍🎓 I’m currently studying on **B.Sc in CSE**
+🎓 I have graduated with a **B.Sc. in Computer Science and Engineering** from **Daffodil International University**.
+🌱 I specialize in **Machine Learning, Deep Learning, Medical Image Analysis,** and **Computer Vision**.
+💻 I have experience in programming languages like **Python, C, HTML, CSS, PHP,** and **Java**.
+📊 I work as a **Research Associate** at the **Health Informatics Research Lab (HIRL)**, focusing on developing deep learning models for medical image tasks.
+🧑‍🏫 I am a former Teaching Assistant at Daffodil International University, where I supported research and academic activities.
+🏆 I have been involved in multiple research projects and publications in international conferences and journals.
+📝 I am also a content writer with past experience at Steemit.
+📫 You can reach me at **sheakhalif26@gmail.com**.
+📚 Google Scholar profile: [Google Scholar]([url](https://scholar.google.com/citations?user=cW1bMGQAAAAJ&hl=en))
+🔗 ResearchGate profile: [ResearchGate]([url](https://www.researchgate.net/profile/Md-Alif-Sheakh))
+🆔 ORCID: [0009-0006-5845-5210]([url](https://orcid.org/0009-0006-5845-5210))
 
-- 🌱 I’m currently learning **Python, PHP etc.**
-
-- 📫 How to reach me **asralif1@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hBKPUtiqfWmSjZkS9_CjR2qm-59tw4ns/view?usp=sharing](https://drive.google.com/file/d/1hBKPUtiqfWmSjZkS9_CjR2qm-59tw4ns/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1aWR7E7fbEpST8GVveKyBY-U2t3QOxUjn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
